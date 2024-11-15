@@ -1,4 +1,6 @@
-# Martin Saveski's Website
+# Shania Mitra's homepage
+
+Taken from Martin [Saveski's homepage](https://github.com/msaveski/www_personal/)
 
 ## Updates guide
 Change one of the files in `_data`, unless you are changing the look of the website.
