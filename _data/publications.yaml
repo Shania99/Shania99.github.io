@@ -1,0 +1,25 @@
+papers:
+
+  - title: "ProteinRPN: Towards Accurate Protein Function Prediction with Graph-Based Region Proposals"
+    authors: "<b>Shania Mitra</b>, Lei Huang, Manolis Kellis" 
+    venue: "Arxiv'24: arXiv preprint. 2024."
+    paper_pdf: "https://arxiv.org/abs/2409.00610"
+    selected: y
+
+  - title: "Group Fairness in Case-Based Reasoning"
+    authors: "Shania Mitra, Ditty Mathew, Sutanu Chakraborti"
+    venue: "International Conference on Case-Based Reasoning 2023"
+    paper_pdf: "https://link.springer.com/chapter/10.1007/978-3-031-40177-0_14"
+    selected: n
+
+  - title: "Counterfactuals as explanations for monotonic classifiers"
+    authors: "Sarathi K<sup>‡</sup>, <b>Shania Mitra<sup>‡</sup></b>, Deepak P, Sutanu Chakraborti"
+    venue: "International Conference on Case-Based Reasoning, Workshop on Case-Based Reasoning for the Explanation of Intelligent Systems 2022"
+    paper_pdf: "https://ceur-ws.org/Vol-3389/ICCBR_2022_Workshop_paper_105.pdf"
+    selected: y
+
+  - title: "Causal Discovery from Natural Language Text using Context and Dependency Information"
+    authors: "<b>Shania Mitra</b>, Arun K Tangirala"
+    venue: "Annual Conference of the Society of Instrument and Control Engineers (SICE) 2022"
+    paper_pdf: "https://ieeexplore.ieee.org/abstract/document/9905843"
+    selected: y

@@ -1,0 +1,62 @@
+experiences:
+
+- place: "MIT"
+  time: "Sep 2023 - now"
+  title: "Graduate Research Assistant"
+  subtitle: "Kellis Lab, CSAIL<br/>Graph Transformers for Protein Function Prediction"
+  category: "school"
+
+- place: "Beaver Works, Lincoln Lab, MIT"
+  time: "Summer 2024"
+  title: "Medlytics - Machine Learning for Healthcare" 
+  subtitle: "Lead Instructor"
+  category: "work"
+
+- place: "IIT Madras"
+  time: "Aug 2022 - May 2023"
+  title: "Dual Degree Thesis"
+  subtitle: "Advisor: Prof. Sutanu Chakraborti <br/>Group Fairness in Case-Based Reasoning"
+  category: "school"
+
+- place: "McMaster University"
+  time: "Summer 2022"
+  title: "MITACS Globalink Intern"
+  subtitle: "Advisor: Prof. Paul Ayers <br/> Diverse Subset Selection for Drug Discovery"
+  category: "work"
+
+- place: "IIT Madras"
+  time: "May 2021 - Jul 2022"
+  title: "B. Tech Thesis"
+  subtitle: "Advisor: Prof. Arun Tangirala <br/> Causal Discovery from Operator Logs"
+  category: "school"
+
+
+- place: "Goldman Sachs"
+  time: "Summer 2021"
+  title: "Quantitative Analyst, Intern"
+  subtitle: "Model Risk Management Division"
+  category: "work"
+
+- place: "Bewgle Inc."
+  time: "Summer 2020"
+  title: "Research Scientist, Intern"
+  subtitle: "E-commerce Insights with BERT"
+  category: "work"
+
+- place: "Antariksh Waste Ventures"
+  time: "Dec 2019 - Jan 2020"
+  title: "Machine Learning Scientist, Intern"
+  subtitle: "Object Detection for Waste Management"
+  category: "work"
+
+- place: "DataHive Labs"
+  time: "Summer 2019"
+  title: "Machine Learning Intern"
+  subtitle: "Breakdown Detection with Sensor Data"
+  category: "work"
+
+- place: "IIT Madras"
+  time: "Jun 2018 - May 2023"
+  title: "B. Tech. + M. Tech (Dual Degree)"
+  subtitle: "Chemical Engineering & Data Science <br/> Minor in Computer Science"
+  category: "school"
